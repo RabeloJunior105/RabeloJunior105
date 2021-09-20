@@ -8,7 +8,6 @@ I am a backend developer focused on the JavaScript stack (NodeJs, Nestjs).
 
 ### Status GITHUB
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabelojunior105&count_private=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabelojunior105&show_icons=true&theme=dark&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabelojunior105&count_private=true)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rabelojunior105&langs_count=5&theme=tokyonight)]()
