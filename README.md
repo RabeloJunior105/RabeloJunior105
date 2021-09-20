@@ -9,3 +9,10 @@ I am a backend developer focused on the JavaScript stack (NodeJs, Nestjs).
 ### Status GITHUB
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabelojunior105&count_private=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabelojunior105&show_icons=true&theme=dark&count_private=true)
+
+<a href="https://github.com/rabelojunior105/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabelojunior105&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabelojunior105&repo=convoychat" />
+</a>
